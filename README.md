@@ -81,4 +81,28 @@ All datasets are stored and processed as **CSV files**.
 
 
 
+---
+
+## 🎯 Learning Outcomes
+
+- Practical use of **Pandas & NumPy**
+- Real-world data cleaning techniques
+- Business rule translation into code
+- Analytical thinking & debugging
+- Structured data pipeline design
+
+---
+
+## 👤 Author
+
+**Arundas P R**  
+📌 Python | Data Analytics | Workforce Analytics  
+
+---
+
+⭐ *If you find this project useful, feel free to star the repository!*
+
+
+
+
 
